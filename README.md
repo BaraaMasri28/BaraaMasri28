@@ -51,7 +51,7 @@ artificial intelligence, full-stack development, and DevOps.
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>Orphan Center Platform</h3>
+      <h3><a href="https://github.com/BaraaMasri28/orphanage-center-frontend">Orphan Center Platform</h3>
       <p>Contributed to a full-stack platform for an orphan center, working across the user interface, server-side application, and database.</p>
       <p><code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code></p>
     </td>
